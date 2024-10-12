@@ -48,7 +48,7 @@ cd eval
 python evaluate.py
 ``````
 
-Calculate params、FLOPs metrics:
+Calculate params, FLOPs metrics:
 
 ``````
 cd eval
